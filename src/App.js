@@ -54,7 +54,7 @@ function App() {
 	return (
 		<div className="App">
 			<header>
-				<h1>Kyle's Todo List</h1>
+				<h1>Daily To-Do List</h1>
 			</header>
 
 			{/* //Passing in props to the 'Form' */}
